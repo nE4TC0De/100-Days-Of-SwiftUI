@@ -26,8 +26,8 @@ Projects / Description                                                          
 *RockPaperScissor* <br/><sub>A game of rock, paper, scissor.</sub> | ![RockPaperScissor](https://user-images.githubusercontent.com/81259525/114473577-60c16f00-9ba9-11eb-9dc3-c9c430ca2093.png) ![RockPaperScissor2](https://user-images.githubusercontent.com/81259525/114473583-63bc5f80-9ba9-11eb-94a7-e88ea5204439.png) |
 *SnowSeeker* <br/><sub>Directory of ski resorts along with various filter options.</sub> | ![SnowSeeker](https://user-images.githubusercontent.com/81259525/114473598-6ae36d80-9ba9-11eb-861c-a0ecca8fca87.png) ![SnowSeeker2](https://user-images.githubusercontent.com/81259525/114473606-6d45c780-9ba9-11eb-9a98-408b594c7d26.png) ![SnowSeeker3](https://user-images.githubusercontent.com/81259525/114473612-6fa82180-9ba9-11eb-8c40-66325e674d0e.png) |
 *Spirograph* <br/><sub>Spirograph app with various slider options.</sub> | ![Spirograph](https://user-images.githubusercontent.com/81259525/114473619-759e0280-9ba9-11eb-9da4-2ae824eb0d36.png) |
-*SwiftUI Basics* <br/><sub>App for understanding the basics of SwiftUI.</sub> | Screenshots |
-*VolumeConversion* <br/><sub>Allows you convert a unit of volume into another.</sub> | Screenshots |
-*WeSplit* <br/><sub>Bill splitting app.</sub> | Screenshots |
-*WordScramble* <br/><sub>App for piecing out existing words using the characters from a given word.</sub> | Screenshots |
-*iExpense* <br/><sub>Expense keeping app.</sub> | Screenshots |
+*SwiftUI Basics* <br/><sub>App for understanding the basics of SwiftUI.</sub> | ![SwiftUI Basics](https://user-images.githubusercontent.com/81259525/114473725-9e25fc80-9ba9-11eb-9064-4e079ae20443.png) |
+*VolumeConversion* <br/><sub>Allows you convert a unit of volume into another.</sub> | ![VolumeConversion](https://user-images.githubusercontent.com/81259525/114473738-a3834700-9ba9-11eb-8e8f-b64842ce7c80.png) |
+*WeSplit* <br/><sub>Bill splitting app.</sub> | ![WeSplit](https://user-images.githubusercontent.com/81259525/114473759-a9792800-9ba9-11eb-99fe-69345c7a85b4.png) |
+*WordScramble* <br/><sub>App for piecing out existing words using the characters from a given word.</sub> | ![WordScramble](https://user-images.githubusercontent.com/81259525/114473769-ada54580-9ba9-11eb-9c79-41a8386d8d2d.png) |
+*iExpense* <br/><sub>Expense keeping app.</sub> | ![iExpense](https://user-images.githubusercontent.com/81259525/114473781-b6961700-9ba9-11eb-9940-d79b2fe11326.png) ![iExpense2](https://user-images.githubusercontent.com/81259525/114473788-b9910780-9ba9-11eb-9283-2c4ee9d85ccd.png) |
